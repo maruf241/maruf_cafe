@@ -2,6 +2,8 @@ body {
     background-image: url('https://img.freepik.com/premium-photo/dark-themed-restaurant-design-rendering_672401-9.jpg?w=740');
     font-family: sans-serif;
     padding: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
     
   }
   
